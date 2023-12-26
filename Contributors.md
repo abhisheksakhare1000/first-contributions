@@ -300,6 +300,7 @@ Here are :
 - Tamanna Niger Tuly
 - [Aaryan Bhagat](https://github.com/AzureSky007)
 - [Soy Eric](https://github.com/ibrahimeric)
+- [Critical Session](https://github.com/criticalsession)
 - [Arpan Srivastava](https://github.com/Arpan3323)
 - [Rukhjam](https://github.com/rukhjam)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
