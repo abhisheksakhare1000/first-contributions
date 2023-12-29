@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 Here are :
+- [Ruth Abiti](https://github.com/dot-ruth)
 - [V205Github](https://github.com/V205Github)
 - [Srikar](https://github.com/Srikar04)
 - [Niko Hoffrén](https://github.com/nikohoffren)
